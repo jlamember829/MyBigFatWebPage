@@ -1,0 +1,25 @@
+body {
+	background: #03396C;
+	background: linear-gradient(120deg, rgba(3,26,47,1) 0%, rgba(3,57,108,1) 50%, rgba(3,26,47,1) 100%);
+	background-attachment: fixed; 
+	background-size: cover;
+	color: yellow;
+}
+h2 {
+	font-family: 'Comic Neue', cursive;
+}
+h1 {
+	font-family: 'Luckiest Guy', cursive;
+}
+#yellowBar {
+	background-image: url('Images/honeycomb_background.jpeg');
+	background-repeat: repeat;
+	background-size: 20%;
+}
+#profile{
+	background-image	: url('Images/Digital_Background.jpeg');
+	background-size: cover;
+}
+#info {
+	background-color: rgba(48, 48, 48, .9);
+}
